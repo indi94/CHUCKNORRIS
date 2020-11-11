@@ -1,0 +1,32 @@
+ body{
+    background-color: #8e8e8e;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.center{
+    width: 100%;
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 25px;
+    background-color: #eeeeee;
+}
+
+ .h{
+     height: 100px;
+ }
+
+ .tof{
+     height: 80px;
+ }
+ .proverbe{
+    height: 200px;
+}
+.bout{
+    height: 50px;
+}
+.btn{
+    background-color: #8e8e8e;
+}
